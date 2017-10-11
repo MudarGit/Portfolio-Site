@@ -7,4 +7,4 @@ A site used to help display a Portfolio
 
 ## Instructions
 1. Clone and download https://github.com/MudarGit/Portfolio-Site
-2. Open index.html
+2. Open index.html in a browser
